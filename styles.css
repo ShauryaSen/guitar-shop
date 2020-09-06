@@ -1,0 +1,157 @@
+body
+{
+    margin: 0;
+    background-color: #ffbb91;
+}
+
+.top-container
+{
+    text-align: center;
+    padding-top: 15em;
+    padding-bottom: 13em;
+    background-color:#ffbb91;
+}
+
+.Catalog
+{
+    padding-top: 5em;
+    background-color: #f8bd7f;
+    text-align: center;
+    margin: 0 10em;
+    padding-bottom: 10em;
+}
+
+hr
+{
+    border-top: .6em dotted black;
+    width: 6em;
+}
+
+.heading
+{
+    font-size: 5em;
+    padding-bottom: .3em;
+}
+
+h5
+{
+    padding-top: .3em;
+    font-size: 1.5em;
+}
+
+.catalog
+{
+    padding-bottom: .7em;
+}
+
+h6
+{
+    padding-bottom: .5em;
+}
+
+.catalog-hr
+{
+    padding-bottom: 6em;
+}
+
+.first-guitar {
+    border-right: 2px solid black;
+}
+
+.second-guitar {
+    border: 0 2px solid black;
+}
+
+.third-guitar {
+    margin-right: 1.3em;
+    border-left: 2px solid black;
+}
+
+.buy {
+    width: 15em;
+    display: inline-block;
+    font-size: 2em;
+    padding-top: 1.2em;
+    padding-bottom: 1.2em;
+}
+
+h2 {
+    padding-bottom: .75em;
+}
+
+.prices {
+    padding-top: .5em;
+    color: #a10303;
+}
+
+.guitar-heading {
+    font-size: 6em;
+    text-align: center;
+}
+
+.guitar-buy {
+    background-color: #ffbb91;
+    margin: 3em 12em 0;
+}
+
+.product-desc {
+    display: inline-block;
+    position: absolute;
+    top: 8em;
+    padding-left: 1.7em;
+}
+
+
+.text {
+    display: inline-block;
+    width: 45em;
+    position: absolute;
+    top: 16em;
+    padding-left: 2.5em;
+}
+
+.in-stock {
+    color: #0db804;
+    font-size: 1.4em;
+}
+
+.buy-guitar {
+    background-color: #f8bd7f;
+    width: 16em;
+    height: 16em;
+    display: inline-block;
+    position: absolute;
+    right: 12em;
+    padding: .6em;
+}
+
+.price {
+    font-size: 1em;
+    padding: 0;
+}
+
+.price2 {
+    font-size: 3em;
+}
+
+.btn {
+    margin-top: 3em;
+}
+
+.guitar-link1 {
+    position: absolute;
+    top: 51em;
+    padding-left: 1em;
+}
+
+.guitar-link2 {
+    position: absolute;
+    top: 51em;
+    margin-left: 14em;
+}
+
+.toast {
+    position: fixed;
+    right: 15em;
+    top: 30em;
+}
